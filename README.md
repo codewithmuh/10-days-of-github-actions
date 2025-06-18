@@ -98,9 +98,9 @@ You can copy, remix, or use any workflow shown here. Just give credit where it's
 ## 👋 Stay Connected
 
 Follow me on:
-- **LinkedIn**: [Muhammed Rashid](https://www.linkedin.com/in/yourprofile)
-- **YouTube**: [Your Channel Name](https://youtube.com/@yourchannel)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn**: [Muhammed Rashid](https://www.linkedin.com/in/muhammad-rashid-daha/)
+- **YouTube**: [CodeWithMuh](https://youtube.com/@codewithmuh)
+- **LinkedIn NewsLetter**: [@codewithmuh](https://www.linkedin.com/in/muhammad-rashid-daha/)
 
 ---
 
