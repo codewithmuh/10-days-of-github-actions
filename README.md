@@ -1,5 +1,5 @@
 
-# 🚀 10 Days of GitHub Actions
+# 🚀 10 Days of GitHub Actions (upcoming)
 
 Welcome to the **10 Days of GitHub Actions** series!  
 This is a hands-on journey to master CI/CD using GitHub Actions — from the basics to deploying apps on AWS.
